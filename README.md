@@ -1,2 +1,2 @@
-My first readme
-Made changes
+
+My first readme. Tips
